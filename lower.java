@@ -17,6 +17,7 @@ public class changeCase {
                 newStr.setCharAt(i, Character.toLowerCase(str1.charAt(i)));    
             }    
         }    
-        System.out.println("String after case conversion : " + newStr);    
+        System.out.println("String after case conversion : " + newStr); 
+        System.out.println("String before case conversion : " + newStr);   
     }    
 }     
