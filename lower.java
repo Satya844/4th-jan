@@ -18,6 +18,6 @@ public class changeCase {
             }    
         }    
         System.out.println("String after case conversion : " + newStr); 
-        System.out.println("String before case conversion : " + newStr);   
+        System.out.println("bug fix work is going on case conversion : " + newStr);   
     }    
 }     
