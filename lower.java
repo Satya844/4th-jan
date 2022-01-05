@@ -4,7 +4,7 @@ public class changeCase {
         String str1="Great Power";    
         StringBuffer newStr=new StringBuffer(str1);    
             
-        for(int i = 0; i < str1.length(); i++) {    
+        for(int i = 0; i < str1.length(); i+++) {    
                 
             //Checks for lower case character    
             if(Character.isLowerCase(str1.charAt(i))) {    
